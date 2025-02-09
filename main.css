@@ -3,6 +3,7 @@ body {
     font-size: 1em;
     font-weight: normal;
     text-align: justify;
+    margin: 16px;
 }
 
 h1 {
@@ -26,9 +27,11 @@ h2 {
 
 h3 {
     text-align: center;
+    padding: 2em 0em 0em;
 }
 
 #Contents {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
 }
 
@@ -38,9 +41,11 @@ h4 {
 
 p cite {
     font-size: 0.75em;
+    color: rgb(57, 57, 57);
 }
 
 footer {
     font-size: 0.5em;
     text-align: center;
+    color: rgb(57, 57, 57);
 }
