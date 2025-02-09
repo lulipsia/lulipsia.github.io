@@ -28,6 +28,10 @@ h3 {
     text-align: center;
 }
 
+h3[Contents] {
+    text-align: left;
+}
+
 h4 {
     text-align: center;
 }
