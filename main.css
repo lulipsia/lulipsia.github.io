@@ -32,11 +32,23 @@ h3 {
 
 #Contents {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: left;
+}
+
+nav {
+    text-align: center;
 }
 
 h4 {
     text-align: center;
+    padding: 0em 0em 0em;
+}
+
+figure {
+    display: inline;
+}
+
+figcaption {
+    padding: 0em 0em 1em;
 }
 
 p cite {
