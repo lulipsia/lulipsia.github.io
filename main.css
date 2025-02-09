@@ -11,11 +11,16 @@ h1 {
     text-decoration: underline;
     text-transform: uppercase;
     text-align: center;
+    line-height: 1.25;
 }
 h2 {
     font-size: 1.5em;
     text-align: center;
     font-weight: normal;
+    line-height: 1.25;
+}
+p cite {
+    font-size: 0.75em;
 }
 footer {
     font-size: 0.5em;
