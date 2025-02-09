@@ -13,13 +13,14 @@ h1 {
     text-align: center;
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     text-align: center;
-    font-weight: normal;
+    font-weight: bold;
 }
 p cite {
     font-size: 0.75em;
 }
 footer {
     font-size: 0.5em;
+    text-align: end;
 }
